@@ -1,0 +1,1 @@
+$sql = "SELECT * FROM `employee` WHERE CONCAT(`id`,`emp_name`,`salary`) LIKE '%Z%'";
